@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|c:\\users\\binch\\source\\repos\\wpfpraktika\\wpfpraktika\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|C:\\Users\\binch\\source\\repos\\WPFPraktika\\wpfpraktika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|C:\\Users\\binch\\source\\repos\\WPFPraktika\\wpfpraktika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|C:\\Users\\binch\\source\\repos\\WPFPraktika\\wpfpraktika\\services\\interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\services\\interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|C:\\Users\\binch\\source\\repos\\WPFPraktika\\wpfpraktika\\services\\implementations\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\services\\implementations\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|C:\\Users\\binch\\source\\repos\\WPFPraktika\\wpfpraktika\\services\\implementations\\csvfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\services\\implementations\\csvfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|C:\\Users\\binch\\source\\repos\\WPFPraktika\\wpfpraktika\\entities\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\entities\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|C:\\Users\\binch\\source\\repos\\WPFPraktika\\wpfpraktika\\services\\implementations\\xmlfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E734CD8-CFB2-43F7-A4AF-322D5E27B0B1}|WPFPraktika\\WPFPraktika.csproj|solutionrelative:wpfpraktika\\services\\implementations\\xmlfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\TestFiles\\fileText.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFPraktika\\TestFiles\\fileText.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFPraktika\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\MainWindow.xaml",
+              "RelativeToolTip": "WPFPraktika\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T14:31:25.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TradeData.cs",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Entities\\TradeData.cs",
+              "RelativeDocumentMoniker": "WPFPraktika\\Entities\\TradeData.cs",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Entities\\TradeData.cs",
+              "RelativeToolTip": "WPFPraktika\\Entities\\TradeData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:31:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fileText.xml",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\TestFiles\\fileText.xml",
+              "RelativeDocumentMoniker": "WPFPraktika\\TestFiles\\fileText.xml",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\TestFiles\\fileText.xml",
+              "RelativeToolTip": "WPFPraktika\\TestFiles\\fileText.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-22T13:01:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\App.config",
+              "RelativeDocumentMoniker": "WPFPraktika\\App.config",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\App.config",
+              "RelativeToolTip": "WPFPraktika\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-22T12:02:26.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TxtFileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Implementations\\TxtFileLoader.cs",
+              "RelativeDocumentMoniker": "WPFPraktika\\Services\\Implementations\\TxtFileLoader.cs",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Implementations\\TxtFileLoader.cs",
+              "RelativeToolTip": "WPFPraktika\\Services\\Implementations\\TxtFileLoader.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:04:08.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvFileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Implementations\\CsvFileLoader.cs",
+              "RelativeDocumentMoniker": "WPFPraktika\\Services\\Implementations\\CsvFileLoader.cs",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Implementations\\CsvFileLoader.cs",
+              "RelativeToolTip": "WPFPraktika\\Services\\Implementations\\CsvFileLoader.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:03:51.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XmlFileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Implementations\\XmlFileLoader.cs",
+              "RelativeDocumentMoniker": "WPFPraktika\\Services\\Implementations\\XmlFileLoader.cs",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Implementations\\XmlFileLoader.cs",
+              "RelativeToolTip": "WPFPraktika\\Services\\Implementations\\XmlFileLoader.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:02:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Interfaces\\IFileLoader.cs",
+              "RelativeDocumentMoniker": "WPFPraktika\\Services\\Interfaces\\IFileLoader.cs",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\Services\\Interfaces\\IFileLoader.cs",
+              "RelativeToolTip": "WPFPraktika\\Services\\Interfaces\\IFileLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:50:17.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFPraktika\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\binch\\source\\repos\\WPFPraktika\\WPFPraktika\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFPraktika\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwFAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:36:59.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
